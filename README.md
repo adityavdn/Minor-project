@@ -1,9 +1,7 @@
 # node-keylogger
 Simple node.js linux only(for now) keylogger using events.
 
-It's working exactly as: https://github.com/Bornholm/node-keyboard
-
-I just rewrote it as simple as possible without requiring any modules and using fs.createReadStream instead of fs.open.
+code by Aditya Vardhan
 
 Install
 -------
